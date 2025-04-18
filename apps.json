@@ -2,12 +2,12 @@
     "name": "homebrew's app source",
     "subtitle": "This is where all my shenanigans take place!",
     "description": "",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+    "iconURL": "https://homebrewuser.github.io/images/homebrew.png",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://homebrewuser.github.io",
     "tintColor": "#4185A9",
     "featuredApps": [
-        ""
+        "com.eevee.spotify"
     ],
     "apps": [
         {
@@ -22,7 +22,7 @@
                 "https://homebrewuser.github.io/images/eeveespotifyportrait1.jpg",
                 "https://homebrewuser.github.io/images/eeveespotifyportrait2.jpg"
                 {
-                    "imageURL": "",
+                    "imageURL": "https://homebrewuser.github.io/images/homebrew.png",
                     "width": 2556,
                     "height": 1179
                 }
