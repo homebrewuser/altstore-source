@@ -4,16 +4,15 @@
     "description": "",
     "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-    "website": "https://example.com",
+    "website": "",
     "tintColor": "#4185A9",
     "featuredApps": [
-        "com.example.myapp",
-        "com.example.anotherapp"
+        ""
     ],
     "apps": [
         {
             "name": "EeveeSpotify",
-            "bundleIdentifier": "",
+            "bundleIdentifier": "com.eevee.spotify",
             "developerName": "whoeevee",
             "subtitle": "Customisable Spotify",
             "localizedDescription": "This version of Spotify allows for ease of customisation that you aren't able to get in the base version of Spotify. This includes adding your own lyrics source and download music locally.",
