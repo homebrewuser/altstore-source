@@ -12,29 +12,28 @@
     ],
     "apps": [
         {
-            "name": "My Example App",
-            "bundleIdentifier": "com.example.myapp",
-            "developerName": "Example Developer",
-            "subtitle": "An awesome app.",
-            "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "name": "EeveeSpotify",
+            "bundleIdentifier": "",
+            "developerName": "whoeevee",
+            "subtitle": "Customisable Spotify",
+            "localizedDescription": "This version of Spotify allows for ease of customisation that you aren't able to get in the base version of Spotify. This includes adding your own lyrics source and download music locally.",
+            "iconURL": "https://homebrewuser.github.io/images/spotifylogo.png",
             "tintColor": "#5CA399",
             "screenshots": [
-                "https://example.com/myapp_portrait_screenshot1.png",
-                "https://example.com/myapp_portrait_screenshot2.png",
+                "",
                 {
-                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+                    "imageURL": "",
                     "width": 2556,
                     "height": 1179
                 }
             ],
             "versions": [
                 {
-                    "version": "1.1",
-                    "date": "2022-05-01T09:00:00-08:00",
-                    "size": 20000000,
-                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
-                    "localizedDescription": "New features and bug fixes.",
+                    "version": "5.9.3",
+                    "date": "2025-05-01T09:00:00-08:00",
+                    "size": 79600000,
+                    "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.3/EeveeSpotify-5.9.3-9.0.32.ipa",
+                    "localizedDescription": "Fixed lyrics screen crashes on recent Spotify versions.",
                     "minOSVersion": "12.0"
                 },
                 {
@@ -47,13 +46,12 @@
             ],
             "appPermissions": {
                 "entitlements": [
-                    "com.apple.security.application-groups",
-                    "com.apple.developer.siri"
+                    ""
                 ],
                 "privacy": {
-                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
-                    "NSCameraUsageDescription": "App uses camera to take photos.",
-                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                    "NSPhotoLibraryUsageDescription": "",
+                    "NSCameraUsageDescription": "",
+                    "NSMicrophoneUsageDescription": ""
                 }
             }
         },
