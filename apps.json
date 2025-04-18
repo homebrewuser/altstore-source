@@ -22,9 +22,7 @@
                 "https://homebrewuser.github.io/images/eeveespotifyportrait1.jpg",
                 "https://homebrewuser.github.io/images/eeveespotifyportrait2.jpg"
                 {
-                    "imageURL": "https://homebrewuser.github.io/images/homebrew.png",
-                    "width": 2556,
-                    "height": 1179
+                  
                 }
             ],
             "versions": [
